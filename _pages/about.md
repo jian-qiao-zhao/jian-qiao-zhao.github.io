@@ -14,6 +14,7 @@ I am an associate professor at China Agricultural University. My research broadl
 - *2019.06 – 2024.06*, Tsinghua University, Ph.D. in Ecology.
 - *2022.12 – 2023.12*, University College London (UCL), Visiting Researcher in Conservation Biology.
 - *2015.09 – 2019.06*, China Agricultural University, Bachelor's Degree in Geographic Information Systems.
+<span class='anchor' id='selected-publications'></span>
 
 # 📝 Selected Publications 
 1. **Jianqiao Zhao**. (2026). Identifying priority conservation areas to improve species-specific representation. *Nature Reviews Biodiversity*, 2, 8. DOI: 10.1038/s44358-025-00117-x.
