@@ -7,13 +7,17 @@ redirect_from:
   - /about/
   - /about.html
 ---
+<span class='anchor' id='about-me'></span>
 
 I am an associate professor at China Agricultural University. My research broadly focuses on biodiversity conservation, land-use planning, and human-environment interactions. I am interested in understanding how changes in land systems and human activities affect biodiversity, and how spatially explicit evidence can inform more sustainable conservation decisions. For a complete list of my publications, please see my [Google Scholar profile](https://scholar.google.com/citations?user=vfdTpYIAAAAJ).
+
+<span class='anchor' id='education'></span>
 
 # 📖 Education
 - *2019.06 – 2024.06*, Tsinghua University, Ph.D. in Ecology.
 - *2022.12 – 2023.12*, University College London (UCL), Visiting Researcher in Conservation Biology.
 - *2015.09 – 2019.06*, China Agricultural University, Bachelor's Degree in Geographic Information Systems.
+
 <span class='anchor' id='selected-publications'></span>
 
 # 📝 Selected Publications 
@@ -23,9 +27,13 @@ I am an associate professor at China Agricultural University. My research broadl
 4. **Jianqiao Zhao**, Yue Cao, Le Yu, Xiaoping Liu, Rui Yang, Peng Gong. (2022). Future global conflict risk hotspots between biodiversity conservation and food security: 10 countries and 7 Biodiversity Hotspots. *Global Ecology and Conservation*, 34, e02036. DOI: 10.1016/j.gecco.2022.e02036.
 5. **Jianqiao Zhao**, Le Yu, Tim Newbold, Xiaoli Shen, Xiaoxuan Liu, Fangyuan Hua, Kasturi Kanniah, Keping Ma. (2024). Biodiversity responses to agricultural practices in cropland and natural habitats. *Science of the Total Environment*, 922, 171296. DOI: 10.1016/j.scitotenv.2024.171296.
 
+<span class='anchor' id='honors-and-awards'></span>
+
 # 🎖 Honors and Awards
 - Beijing Outstanding Graduate, Beijing Municipal Education Commission, 2024.
 - Excellent Youth Oral Presentation Award, The 5th International Forum on Big Data for Sustainable Development Goals, 2025.
+
+<span class='anchor' id='professional-service'></span>
 
 # 📚 Professional Service
 - Youth Committee Member, Digital Agriculture Sub-Committee, Chinese National Committee of the International Society for Digital Earth (CNISDE), 2026–present.
