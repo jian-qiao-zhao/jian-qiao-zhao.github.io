@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an associate professor at China Agricultural University whose work broadly focuses on biodiversity conservation, land-use planning, and human-environment interactions. I am interested in understanding how changes in land systems and human activities affect biodiversity, and how spatially explicit evidence can inform more sustainable conservation decisions. For a complete list of my publications, please see my [Google Scholar profile](https://scholar.google.com/citations?user=vfdTpYIAAAAJ).
+I am an associate professor at China Agricultural University. My research broadly focuses on biodiversity conservation, land-use planning, and human-environment interactions. I am interested in understanding how changes in land systems and human activities affect biodiversity, and how spatially explicit evidence can inform more sustainable conservation decisions. For a complete list of my publications, please see my [Google Scholar profile](https://scholar.google.com/citations?user=vfdTpYIAAAAJ).
 
 # 📖 Education
 - *2019.06 – 2024.06*, Tsinghua University, Ph.D. in Ecology.
