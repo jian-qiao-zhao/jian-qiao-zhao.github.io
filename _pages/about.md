@@ -17,8 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a researcher at China Agricultural University whose work broadly focuses on biodiversity conservation, land-use planning, and human-environment interactions. I am interested in understanding how changes in land systems and human activities affect biodiversity, and how spatially explicit evidence can inform more sustainable conservation decisions. For a complete list of my publications, please see my [Google Scholar profile](https://scholar.google.com/citations?user=DhtAFkwAAAAJ).
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+I am a researcher at China Agricultural University whose work broadly focuses on biodiversity conservation, land-use planning, and human-environment interactions. I am interested in understanding how changes in land systems and human activities affect biodiversity, and how spatially explicit evidence can inform more sustainable conservation decisions. For a complete list of my publications, please see my [Google Scholar profile](https://scholar.google.com/citations?user=vfdTpYIAAAAJ).
 
 # 📖 Educations
 - *2019.06 – 2024.06*, Tsinghua University, Ph.D. in Ecology.
