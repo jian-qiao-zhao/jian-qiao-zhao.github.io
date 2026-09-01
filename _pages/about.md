@@ -35,6 +35,6 @@ I am a researcher at China Agricultural University whose work broadly focuses on
 - Beijing Outstanding Graduate, Beijing Municipal Education Commission, 2024.
 - Excellent Youth Oral Presentation Award, The 5th International Forum on Big Data for Sustainable Development Goals, 2025.
 
-# Professional Service
+# 📚 Professional Service
 - Youth Committee Member, Digital Agriculture Sub-Committee, Chinese National Committee of the International Society for Digital Earth (CNISDE), 2026–present.
 - Governing Board Member, World Food Forum (WFF) China Chapter, 2026–present.
