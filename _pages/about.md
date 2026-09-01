@@ -8,15 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-{% if site.google_scholar_stats_use_cdn %}
-{% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
-{% else %}
-{% assign gsDataBaseUrl = "https://raw.githubusercontent.com/" | append: site.repository | append: "/" %}
-{% endif %}
-{% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
-
-<span class='anchor' id='about-me'></span>
-
 I am a researcher at China Agricultural University whose work broadly focuses on biodiversity conservation, land-use planning, and human-environment interactions. I am interested in understanding how changes in land systems and human activities affect biodiversity, and how spatially explicit evidence can inform more sustainable conservation decisions. For a complete list of my publications, please see my [Google Scholar profile](https://scholar.google.com/citations?user=vfdTpYIAAAAJ).
 
 # 📖 Educations
