@@ -7,8 +7,8 @@
 
 # Site Settings
 title                    : "Jianqiao Zhao"
-description              : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. "
-repository               : "RayeRen/acad-homepage.github.io"
+description              : "Biodiversity conservation | Conservation planning | Sustainability"
+repository               : "zhaojq19/jianqiaozhao.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -22,12 +22,12 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Jianqiao Zhao"
-  avatar           : "images/android-chrome-512x512.png"
-  bio              : "China Agricultural University"
+  avatar           : "images/profile.png"
+  bio              : "Associate Professor, China Agricultural University"
   location         : "Beijing, China"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
+  googlescholar    : "https://scholar.google.com/citations?user=vfdTpYIAAAAJ"
   email            : "jqzhao@cau.edu.cn"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
