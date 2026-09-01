@@ -26,8 +26,6 @@ I am a researcher at China Agricultural University whose work broadly focuses on
 
 # 📝 Selected Publications 
 
-# Selected Publications
-
 1. **Jianqiao Zhao**. (2026). Identifying priority conservation areas to improve species-specific representation. *Nature Reviews Biodiversity*, 2, 8. DOI: 10.1038/s44358-025-00117-x.
 
 2. **Jianqiao Zhao**, Xuecao Li, Li Chai, Jianxi Huang. (2026). Land footprints of the food system reveal telecoupled biodiversity impacts. *The Innovation Geoscience*, 4, 100249. DOI: 10.59717/j.xinn-geo.2026.100249.
@@ -39,6 +37,5 @@ I am a researcher at China Agricultural University whose work broadly focuses on
 5. **Jianqiao Zhao**, Le Yu, Tim Newbold, Xiaoli Shen, Xiaoxuan Liu, Fangyuan Hua, Kasturi Kanniah, Keping Ma. (2024). Biodiversity responses to agricultural practices in cropland and natural habitats. *Science of the Total Environment*, 922, 171296. DOI: 10.1016/j.scitotenv.2024.171296.
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
+- Beijing Outstanding Graduate, Beijing Municipal Education Commission, 2024.
+- Excellent Youth Oral Presentation Award, The 5th International Forum on Big Data for Sustainable Development Goals, 2025.
