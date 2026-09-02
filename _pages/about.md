@@ -36,5 +36,5 @@ I am an associate professor at China Agricultural University. My research broadl
 <span class='anchor' id='professional-service'></span>
 
 # 📚 Professional Service
-- Youth Committee Member, Digital Agriculture Sub-Committee, Chinese National Committee of the International Society for Digital Earth (CNISDE), 2026–present.
+- Youth Committee Member, Digital Agriculture Committee, Chinese National Committee of the International Society for Digital Earth (CNISDE), 2026–present.
 - Governing Board Member, World Food Forum (WFF) China Chapter, 2026–present.
